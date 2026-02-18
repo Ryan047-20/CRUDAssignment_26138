@@ -33,7 +33,7 @@ mvn spring-boot:run
 
 
 5. The application runs on:
-http://localhost:8081
+http://localhost:8089/api/books
 
 
 ---
@@ -56,7 +56,8 @@ Response:
 - 201 Created
 
 📸 Screenshot:
-![Create Screenshot](screenshots/create.png)
+<img width="798" height="500" alt="Screenshot 2026-02-18 180121" src="https://github.com/user-attachments/assets/3d1dd9d0-17d3-4eaf-8ad5-ab2c8907c55a" />
+
 
 ---
 
@@ -67,7 +68,8 @@ Response:
 - 200 OK
 
 📸 Screenshot:
-![Get All Screenshot](screenshots/get-all.png)
+
+<img width="798" height="500" alt="Screenshot 2026-02-18 180147" src="https://github.com/user-attachments/assets/eedd5f34-7cab-4d73-b57d-cbe9cb589d0b" />
 
 ---
 
@@ -79,7 +81,8 @@ Response:
 - 404 Not Found (if not exists)
 
 📸 Screenshot:
-![Get By Id Screenshot](screenshots/get-by-id.png)
+<img width="798" height="510" alt="Screenshot 2026-02-18 180225" src="https://github.com/user-attachments/assets/ae5ec4bd-9a2f-45f6-8a08-1a85e141f24c" />
+
 
 ---
 
@@ -99,7 +102,8 @@ Response:
 - 200 OK
 
 📸 Screenshot:
-![Update Screenshot](screenshots/update.png)
+<img width="750" height="530" alt="Screenshot 2026-02-18 180335" src="https://github.com/user-attachments/assets/9c1889b5-79f6-480a-b7bb-f305a2c5c749" />
+
 
 ---
 
@@ -110,7 +114,8 @@ Response:
 - 204 No Content
 
 📸 Screenshot:
-![Delete Screenshot](screenshots/delete.png)
+
+<img width="813" height="658" alt="Screenshot 2026-02-18 180404" src="https://github.com/user-attachments/assets/f21cab4d-edee-41c2-afa7-8a3170aa91ea" />
 
 ---
 
