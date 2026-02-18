@@ -135,4 +135,4 @@ Screenshots are included in the `screenshots` folder.
 
 ## 👨‍💻 Author
 
-Student REST API Assignment
+Shema Ryan
